@@ -16,7 +16,7 @@ function calcular(saldo) {
     }
 }
 
-// Exemplo
+
 let saldo = 500;
 let nivel = calcular(saldo);
 console.log("Você tem " + saldo + " vitórias e está no Nível " + nivel);
